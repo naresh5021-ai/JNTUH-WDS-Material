@@ -1,0 +1,22 @@
+Hippocratic Databases: "Do No Harm" 
+---> Data Privacy and Security. 
+---> Sensitive information
+---> Handling Practices Transparent, secure and compliant with privacy regulations.
+
+Key Features:
+1. Data Minimization: min (critical) amount of data necessary.
+2. Purpose specification: clearly define the purpose for which the above min (critical) is collected and used.
+3. Data Protection: Implementing robust security measures/methods to protect.
+4. Transparency: Providing the clear inf about data handling practises.
+5. Accountability: Ensure accountability for data handling and breaches.
+
+Benefits:
+1. Data privacy
+2. Data integity
+3. Reduces risk
+4. Regular monitoring.
+
+Applications:
+1. Healthcare:patent data
+2. Financial services
+3. E-Commerce
