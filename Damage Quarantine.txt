@@ -1,0 +1,27 @@
+Damage Quarantine and Recovery in Data Processing Systems:
+
+Damage Quarantine:
+ --- > Process Used to identify the affected or damaged data and to isolate it to reduce/mitigate 
+       the risk or damage so that existing data can be protected.
+
+ 1. Identifying and flagging compromised data or systems.
+ 2. isolating that affected data from the rest of the data/network.
+ 3. Preventing further access to or modification of the compromised data 
+ 
+ 
+Damage Recovery: 
+----> Restoring the compromised data or systems to previously known good state. (backup)
+
+  1. Restoring data from backups.
+  2. Rebuilding the systems or applications.
+  3. Apply patches(updates) to fix the vulnarabilities.
+  4. Verifying the data integrity and accuracy ( No modifications)
+   
+ incident(error/bug/issue)  /  ticket (epic, story, task, subtask, bug ) 
+ 
+Key Points:
+ 1. Backup and restore
+ 2. Error Detection and correction
+ 3. Redundancy- duplicating the critical data
+ 4. Incident response planning.
+ 5. continuous Monitoring.
