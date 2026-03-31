@@ -1,0 +1,14 @@
+UNIT 3
+1. Demonstrate the threat of indirect inferences in OLAP systems and describe various requirements in designing security measures for such systems.
+2. Explain mechanisms used for protecting database server
+	
+UNIT 4
+3. Explain damage quarantine and recovery as a six-dimensional problem and suggest mechanisms to handle this problem.
+4. Illustrate Hippocratic database query transformation for policy enforcement.
+5. Explain the database watermarking for copyright protection.
+
+UNIT 5
+6. a) Give the system architecture for mobile applications. 
+   b) Discuss Authorization Overlaying Process in SSTP-tree.
+7. Describe a privacy aware LBAC architecture with a neat diagram.
+8. Explain Privacy Enhanced Loaction Based Access Control.
